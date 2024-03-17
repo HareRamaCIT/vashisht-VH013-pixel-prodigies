@@ -1,4 +1,4 @@
-PersonaLearn
+**PersonaLearn**
 
 
 "PersonaLearn" is an innovative online learning platform designed to revolutionize education by providing personalized learning experiences across diverse domains. Through our website, students gain access to a plethora of courses tailored to their individual needs and preferences. Our platform boasts advanced features including progress tracking and a comprehensive dashboard, enabling users to monitor their course performance and gain valuable insights from assessments.
@@ -10,7 +10,7 @@ To enhance the learning experience, PersonaLearn integrates a chatbot feature, a
 Ensuring utmost security and data integrity, PersonaLearn leverages the robustness of Aptos blockchain technology to host user data securely. By harnessing blockchain, we guarantee the protection of sensitive information and provide users with peace of mind regarding their data privacy.
 
 
-Team members:
+**Team members:**
 
 
 * S.Barath - s.barath.aids2021@citchennai.net
@@ -28,14 +28,14 @@ IIIrd year B-tech Artificial Intelligence and Data Science, Chennai Institute of
 * Sumeet M - sumeetmchimurkar.aids2021@citchennai.net
 IIIrd year B-tech Artificial Intelligence and Data Science, Chennai Institute of Technology
 
-Demo Video: https://youtu.be/FUDCSgYGhyU
+**Demo Video:** https://youtu.be/FUDCSgYGhyU
 
 
 
 
 
 
-Problems it solves:
+**Problems it solves:**
 
 
 The "PersonaLearn" project addresses several key challenges in education and online learning, ultimately improving the overall learning experience:
@@ -63,7 +63,7 @@ The "PersonaLearn" project addresses several key challenges in education and onl
 
 
 
-Use cases:
+**Use cases:**
 
 
 1. Individual Learners:
@@ -94,7 +94,7 @@ Use cases:
 
 
 
-Challenges faced:
+**Challenges faced:**
 
 
 1.  Data Integration Challenge:  Integrating a large volume of project data into a single hash ID in the blockchain proved technically challenging with conventional frameworks.
@@ -110,14 +110,14 @@ Challenges faced:
 
 
 
-Flow Chart:
+**Flow Chart:**
 
 
 ![screenshot](PersonaLearn-Flowchart.jpeg)
 
 
 
-Technologies used:
+**Technologies used:**
 
 
 GenAi:
@@ -164,11 +164,11 @@ Blockchain:
 * Hashlib
 
 
-Project Images:
+**Project Images:**
 
-![screenshot](product_ss_1.png)
-![screenshot](product_ss_2.png)
 ![screenshot](product_ss_4.png)
+![screenshot](product_ss_6.png)
+![screenshot](product_ss_9.png)
   
   
   
@@ -190,7 +190,7 @@ Project Images:
 
 
 
-Steps to run the Project:
+**Steps to run the Project:**
 
 
 Steps for running the website locally
