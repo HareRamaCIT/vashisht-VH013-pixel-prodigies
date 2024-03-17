@@ -28,6 +28,8 @@ IIIrd year B-tech Artificial Intelligence and Data Science, Chennai Institute of
 * Sumeet M - sumeetmchimurkar.aids2021@citchennai.net
 IIIrd year B-tech Artificial Intelligence and Data Science, Chennai Institute of Technology
 
+Demo Video: https://youtu.be/FUDCSgYGhyU
+
 
 
 
