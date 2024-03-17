@@ -110,9 +110,8 @@ Challenges faced:
 
 Flow Chart:
 
-![alt text](https://github.com/[HareRamaCIT]/[vashisht-VH013-pixel-prodigies]/blob/[main]/PersonaLearn-Flowchart.jpg?raw=true)
 
-
+https://github.com/HareRamaCIT/vashisht-VH013-pixel-prodigies/blob/main/PersonaLearn-Flowchart.jpeg?raw=true
 
 
 
