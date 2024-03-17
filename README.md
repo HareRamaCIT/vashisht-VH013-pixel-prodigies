@@ -199,6 +199,9 @@ Steps for running the website locally
 
 
 Run aptos blockchain
+
+![Aptos Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Faptosfoundation.org%2Fbrand&psig=AOvVaw3ozz77rP1dFvUrWByqGFuW&ust=1710754006970000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiA5rj9-oQDFQAAAAAdAAAAABAE)
+
 1. Setup wallet
 2. Install martin wallet
 3. Install aptos CLI
