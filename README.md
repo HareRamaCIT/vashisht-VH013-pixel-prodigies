@@ -202,7 +202,8 @@ Steps for running the website locally
 
 Run aptos blockchain
 
-![screenshot](WhatsApp Image 2024-03-17 at 12.03.58.jpeg)
+![screenshot](aptos_logo.jpeg)
+
 
 1. Setup wallet
 2. Install martin wallet
